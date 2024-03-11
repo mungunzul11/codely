@@ -1,0 +1,33 @@
+.box{
+    background: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.border{
+    background-color: gray;
+    display: flex;
+    flex: 1;    
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+    width: 600px;
+    height: 600px;
+    
+}
+
+.border2{
+    background-color:pink;
+    display: flex;
+    flex: 1;    
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 600px;
+    height: 600px;
+    
+}
+.border3{
+    display: flex;
+}
+
